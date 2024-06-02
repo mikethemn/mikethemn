@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-## Languages
-![download](https://github.com/mikethemn/mikethemn/assets/168277305/c3806f12-8c41-4ac6-b684-dfc2db2b2dea)
+
 
 <!--
 **mikethemn/mikethemn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
