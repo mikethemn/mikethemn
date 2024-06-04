@@ -9,7 +9,7 @@
 <div align="center">
   <h3>My Discord</h3>
   <a href="https://discord.com/users/349899862495723520">
-    <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/349899862495723520)](https://discord.com/users/349899862495723520)">
+    <img src="https://lanyard.cnrad.dev/api/349899862495723520">
   </a>
   <br /><br />
 
