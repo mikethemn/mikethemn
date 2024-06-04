@@ -29,7 +29,7 @@ I do discord bots 😎
 
 ## Contact
 
-- [Discord]((https://discordapp.com/users/349899862495723520)
+- [Discord](https://discordapp.com/users/349899862495723520)
 - [Discord Server](https://discord.gg/vxlo)
 - [Email](mailto:matt@velo.llc)
 
