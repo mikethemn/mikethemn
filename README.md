@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css](https://skillicons.dev/icons?i=aws,nginx,git,github,vscode,idea,vim,docker,kubernetes,mysql,mongodb,postgre" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=js,html,css](https://skillicons.dev/icons?i=aws,nginx,git,github,vscode,idea,vim,docker,kubernetes,mysql,mongodb,postgrehttps
+      //skillicons.dev/icons?i=aws,nginx,git,github,vscode,idea,vim,docker,kubernetes,mysql,mongodb,postgres" alt="Skills" />
   </a>
 </p>
 
@@ -17,6 +18,7 @@
 
 I do discord bots 😎
 
+## Streak
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mikethemn&theme=prussian" alt="GitHub Streak" /></a>
 
 Thanks for visiting my profile!
