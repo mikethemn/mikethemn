@@ -17,7 +17,6 @@
   <img src="active-developer.png" alt="Active Developer Badge" style="width: 24px; margin-left: 5px;" />
   <img src="nitro.png" alt="Nitro Badge" style="width: 24px; margin-left: 5px;" />
   <img src="nitro-boosting.png" alt="Nitro Boosting Badge" style="width: 24px; margin-left: 5px;" />
-  <img src="completed-quest.png" alt="Completed Quest Badge" style="width: 24px; margin-left: 5px;" />
 </p>
 
 ## About Me
