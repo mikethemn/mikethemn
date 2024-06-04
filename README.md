@@ -17,15 +17,7 @@
 
 I do discord bots 😎
 
-## My Projects
-
-- **Velo Network**: Velo Network is the best PvP Practive server of 2024.
-
-## Contact
-
-- [Discord](https://discordapp.com/users/349899862495723520)
-- [Discord Server](https://discord.gg/vxlo)
-- [Email](mailto:matt@velo.llc)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mikethemn&theme=prussian" alt="GitHub Streak" /></a>
 
 Thanks for visiting my profile!
 
