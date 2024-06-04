@@ -21,7 +21,7 @@
 
 ## About Me
 
-I am a developer passionate about open-source technologies and tools. I enjoy working with a variety of programming languages and platforms.
+I do discord bots 😎
 
 ## My Projects
 
