@@ -1,4 +1,7 @@
-# Welcome to My GitHub Profile
+# Welcome To My GitHub Profile
+
+### 💻 Skills
+- **Discord bot** (discord.js with typescript)
 
 <div align="center">
   <h3>My Discord</h3>
