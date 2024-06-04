@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="profile-pic.png" alt="Discord Profile Picture" style="border-radius: 50%; width: 100px;" />
+  <a href="https://discordapp.com/users/349899862495723520" target="_blank">
+    <img src="profile-pic.png" alt="Discord Profile Picture" style="border-radius: 50%; width: 100px;" />
+  </a>
 </p>
 
 <p align="center">
