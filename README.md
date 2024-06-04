@@ -1,17 +1,15 @@
 # Welcome to My GitHub Profile
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css](https://skillicons.dev/icons?i=aws,nginx,git,github,vscode,idea,vim,docker,kubernetes,mysql,mongodb,postgres" alt="Skills" />
-  </a>
-</p>
-
 <div align="center">
   <h3>My Discord</h3>
   <a href="https://discord.com/users/349899862495723520">
     <img src="https://lanyard.cnrad.dev/api/349899862495723520">
   </a>
   <br /><br />
+    <a href="https://skillicons.dev">
+    <img height=30 src="https://skillicons.dev/icons?i=js,ts,nodejs,java,kotlin,python,c,cpp,html,css,tailwind,php" />
+    <br />
+    <img height=30 src="https://skillicons.dev/icons?i=aws,nginx,git,github,vscode,idea,vim,docker,kubernetes,mysql,mongodb,postgres" />
 
 ## About Me
 
