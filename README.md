@@ -6,18 +6,12 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://discordapp.com/users/349899862495723520" target="_blank">
-    <img src="profile-pic.png" alt="Discord Profile Picture" style="border-radius: 50%; width: 100px;" />
+<div align="center">
+  <h3>My Discord</h3>
+  <a href="https://discord.com/users/349899862495723520">
+    <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/349899862495723520)](https://discord.com/users/349899862495723520)">
   </a>
-</p>
-
-<p align="center">
-  <strong>mvaq</strong>
-  <img src="active-developer.png" alt="Active Developer Badge" style="width: 24px; margin-left: 5px;" />
-  <img src="nitro.png" alt="Nitro Badge" style="width: 24px; margin-left: 5px;" />
-  <img src="nitro-boosting.png" alt="Nitro Boosting Badge" style="width: 24px; margin-left: 5px;" />
-</p>
+  <br /><br />
 
 ## About Me
 
