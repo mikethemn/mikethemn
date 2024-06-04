@@ -1,6 +1,4 @@
-<p align="center">
-  <strong>Welcome to My GitHub Profile</strong>
-</p>
+# Welcome to My GitHub Profile
 
 <p align="center">
   <a href="https://skillicons.dev">
