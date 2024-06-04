@@ -29,8 +29,8 @@ I do discord bots 😎
 
 ## Contact
 
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
+- [Discord]([https://linkedin.com/in/your-profile](https://discordapp.com/users/349899862495723520))
+- [Discord Server](https://discord.gg/vxlo)
 - [Email](mailto:matt@velo.llc)
 
 Thanks for visiting my profile!
