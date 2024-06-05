@@ -1,6 +1,5 @@
-<p align="center">
-  <strong>Welcome to My GitHub Profile</strong>
-</p>
+## Welcome to My GitHub Profile
+
 
 
 <div align="center">
