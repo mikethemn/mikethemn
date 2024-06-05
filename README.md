@@ -1,5 +1,5 @@
-## Welcome to My GitHub Profile
-
+<div align="center">
+  <h3>Welcome To My GitHub Profile</h3>
 
 
 <div align="center">
