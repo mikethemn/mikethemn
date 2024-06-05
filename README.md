@@ -5,7 +5,7 @@
 <div align="center">
   <h3>My Discord</h3>
   <a href="https://discord.com/users/349899862495723520">
-    <img src="https://lanyard.cnrad.dev/api/349899862495723520">
+    <img src="https://lanyard.cnrad.dev/api/349899862495723520?showDisplayName=true&idleMessage=Doin'%20nothing%20special%20rn%20:P">
   </a>
   <br /><br />
     <a href="https://skillicons.dev">
