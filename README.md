@@ -15,7 +15,7 @@
 
 ## About Me
 
-Lots of cool information that you will totally read 😁
+Lots of cool information that you will totally read 😁😎
 
 ## Streak
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mvaqq&theme=prussian" alt="GitHub Streak" /></a>
