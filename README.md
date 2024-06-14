@@ -20,7 +20,7 @@ Lots of cool information that you will totally read 😁😎
 ## Streak
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mvaqq&theme=prussian" alt="GitHub Streak" /></a>
 
- ![Commit Snake Game](https://raw.githubusercontent.com/mvaqq/mvaqq/output/github-contribution-grid-snake-dark.svg)
+ [![Commit Snake Game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
 Thanks for visiting my profile!
 
